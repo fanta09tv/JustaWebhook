@@ -1,4 +1,4 @@
-# JustaWebhook by kldiscord ( github ) / DoubleEight#7814 ( discord )
+# JustaWebhook by fanta09tv ( github ) / DoubleEight#7814 ( discord )
 
 import requests, os, time, json, ctypes
 from urllib.request import Request, urlopen
@@ -188,7 +188,7 @@ def choosenumber():
                 
         f = open("vaild.txt","w+")
         if showcredit:
-            f.writelines("Token checked by JustaWebhook!\nhttps://github.com/kldiscord/JustaWebhook\n \n" + vaild)
+            f.writelines("Webhook checked by JustaWebhook!\nhttps://github.com/fanta09tv/JustaWebhook\n \n" + vaild)
         else:
             f.writelines(vaild)
         f.close()
