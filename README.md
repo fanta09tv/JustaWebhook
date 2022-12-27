@@ -1,0 +1,2 @@
+# JustaWebhook
+Discord webhook tool
